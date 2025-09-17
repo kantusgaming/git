@@ -1,2 +1,0 @@
-username = kantus
-password = sixnine69
